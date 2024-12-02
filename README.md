@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 
 <!--
 **v-v-vlad/v-v-vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
